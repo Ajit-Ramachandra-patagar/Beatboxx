@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # beatboxx
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Beatboxx
+a music player with clean ui and music control players with local storage
+>>>>>>> f3429ae1dfbd796f8d50f7d859140dbf672e1cb9
