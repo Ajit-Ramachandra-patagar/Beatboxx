@@ -1,21 +1,47 @@
-<<<<<<< HEAD
-# beatboxx
+🎵 Beatboxx - Offline Music Player App
 
-A new Flutter project.
+Beatboxx is a sleek and responsive offline music player built using **Flutter**, designed to play locally stored audio files. It features powerful playback controls, intuitive UI, and playlist management for an enhanced listening experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎧 **Offline Playback**: Plays music directly from local device storage with no internet required.
+- 🧭 **Clean & Responsive UI**: Easy navigation across songs, playlists, and music categories.
+- 🔁 **Playback Controls**: Includes play, pause, next/previous, shuffle, and repeat options.
+- 🖼️ **Album Art Display**: Shows album artwork for songs that support it.
+- 📂 **Playlist Management**: Create, manage, and play custom playlists effortlessly.
+- ⚡ **Fast Performance**: Smooth transitions and quick loading for large libraries.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Beatboxx
-a music player with clean ui and music control players with local storage
->>>>>>> f3429ae1dfbd796f8d50f7d859140dbf672e1cb9
+📸 Screenshots
+assets/images/
+
+🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Audio Players Package**
+- **Path Provider**
+
+Navigate to the project directory
+
+bash
+Copy
+Edit
+cd Beatboxx
+Install dependencies
+
+bash
+Copy
+Edit
+flutter pub get
+Run the app
+
+bash
+Copy
+Edit
+flutter run
+
+📃 License
+This project is licensed under the MIT License
